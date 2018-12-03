@@ -3,5 +3,6 @@ Network anomally detection conducted on dataset: https://www.unb.ca/cic/datasets
 You can find a comprehensive description of dataset in the link.
 ### Setup
 - Create a folder called 'data' on parent directory of notebook.
+- Download data and unzip it in 'data' folder.
 - Install required libraries: pandas, tensorflow, matplotlib, seaborn, numpy, sklearn, pyod, keras, tensorflow.
 - Run jupyter notebook.
